@@ -1,0 +1,11 @@
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\bin\Debug\netcoreapp2.2\Giraffe.deps.json
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\bin\Debug\netcoreapp2.2\Giraffe.runtimeconfig.json
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\bin\Debug\netcoreapp2.2\Giraffe.runtimeconfig.dev.json
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\bin\Debug\netcoreapp2.2\Giraffe.dll
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\bin\Debug\netcoreapp2.2\Giraffe.pdb
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.csprojAssemblyReference.cache
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.csproj.CoreCompileInputs.cache
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.AssemblyInfoInputs.cache
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.AssemblyInfo.cs
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.dll
+C:\Users\Garrett Kent\Desktop\Giraffe\Giraffe\obj\Debug\netcoreapp2.2\Giraffe.pdb
